@@ -1,0 +1,12 @@
+table,th,tr,td{
+    border: 2px black solid;
+    padding:20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.a1{
+    color: blue;
+    margin-left: 750px;
+    
+}
